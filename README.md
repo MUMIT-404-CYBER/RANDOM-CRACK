@@ -26,8 +26,8 @@
 
 * `python run.py `
 
-## User:`demon `
-## Pass:`404 `
+## UserName:`demon `
+## PassWord:`404 `
 
 ___This Tools is Free.___</br>
 
